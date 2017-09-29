@@ -1,2 +1,1 @@
-# Veronica
-First Git Repo
+Basic Machine Learning
